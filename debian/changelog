@@ -1,3 +1,9 @@
+liquidshell (1.5.1-nxos-1)  nxos; urgency=medium
+
+  * Add start script.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 04 May 2020 04:16:00 -0500
+ 
 liquidshell (1.5-nxos-1)  nxos; urgency=medium
 
   * Create package.
