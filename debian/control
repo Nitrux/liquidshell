@@ -2,7 +2,7 @@ Source: liquidshell
 Section: misc
 Priority: optional
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
-Build-Depends: debhelper (>=9)
+Build-Depends: debhelper (>=9), libqt5core5a, libqt5x11extras5, libkf5notifications5, libkf5networkmanagerqt6, libkf5solid5, libkf5bluezqt6, libkf5kcmutils5, libkf5newstuff5, libkf5kiowidgets5, libkf5kiocore5, libkf5crash5, libkf5service5, libkf5dbusaddons5, libkf5xmlgui5, libkf5windowsystem5, libqt5x11extras5, libkf5iconthemes5, libkf5configwidgets5, libkf5widgetsaddons5, libkf5configcore5, libqt5dbus5, libkf5archive5, libkf5i18n5, libkf5itemviews5, libqt5widgets5, libqt5gui5, libkf5coreaddons5, libqt5network5
 Standards-Version: 3.9.6
 Homepage: http://nxos.org
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 apt-get --yes update
-apt-get --yes install wget
+apt-get --yes install wget gnupg2
 
 ### Add KDENeon Repository
 apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 55751E5D
