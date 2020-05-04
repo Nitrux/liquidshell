@@ -1,0 +1,15 @@
+Source: liquidsshell
+Section: misc
+Priority: optional
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: http://nxos.org
+
+
+Package: liquidshell
+Architecture: amd64
+Depends: libqt5core5a, libqt5x11extras5
+Description: liquidshell is a basic Desktop Shell.
+ It is implemented using QtWidgets.
+
