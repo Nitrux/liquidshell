@@ -1,0 +1,2 @@
+# liquidshell
+Packaged KDE Liquidshell
