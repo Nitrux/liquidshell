@@ -1,3 +1,9 @@
+liquidshell (1.5.2-nxos-1)  nxos; urgency=medium
+
+  * Change name to script.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 05 May 2020 04:38:00 -0500
+
 liquidshell (1.5.1-nxos-1)  nxos; urgency=medium
 
   * Add start script.
