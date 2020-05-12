@@ -1,4 +1,4 @@
-# liquidshell
+# KDE liquidshell [![Build Status](https://travis-ci.org/Nitrux/liquidshell.svg?branch=master)](https://travis-ci.org/Nitrux/liquidshell)
 Pre-compiled KDE Liquidshell.
 
 # Issues
