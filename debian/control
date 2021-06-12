@@ -23,7 +23,7 @@ Build-Depends: libkf5archive-dev,
                 libkf5windowsystem-dev,
                 libkf5xmlgui-dev,
                 libqt5x11extras5-dev,
-                qtbase5-dev,
+                qtbase5-dev
 Standards-Version: 3.9.6
 Homepage: https://github.com/KDE/liquidshell
 
